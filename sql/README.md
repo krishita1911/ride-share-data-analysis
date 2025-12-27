@@ -1,1 +1,1 @@
-This folder contains SQL queries used for analysis.
+This folder contains SQL queries used for data cleaning, transformation, and analysis.
