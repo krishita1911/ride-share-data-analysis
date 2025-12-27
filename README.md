@@ -35,7 +35,7 @@ Cyclistic is a fictional company and the dataset is used for educational and ana
 - Improve retention strategies for weekday commuters (primarily annual members)
 - Optimize bike placement near leisure hotspots
 
-## Repository Structure
+## Analysis Structure
 - `/data` → dataset notes
 - `/sql` → SQL queries used in analysis
 - `/sheets` → Google Sheets outputs (pivot tables & charts)
