@@ -41,3 +41,6 @@ Cyclistic is a fictional company and the dataset is used for educational and ana
 - `/sheets` → Google Sheets outputs (pivot tables & charts)
 - `/visuals` → final visualizations
 
+## Presentation
+A summarized version of this analysis is available as a presentation:
+- Cyclistic_Ride_Share_Data_Analysis_Case_Study.pdf
